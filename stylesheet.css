@@ -1,0 +1,112 @@
+.top-wrapper{
+
+background-image: url(https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+);
+height:500px;
+background-size:cover;
+
+}
+.container{
+width:500px;
+padding:30px;
+margin:0 auto;
+
+
+}
+.opo h1{
+  color:purple;
+  letter-spacing:3px;
+  opacity:0.4;
+}
+.button{
+  color:black;
+  font-size:15px;
+  opacity:0.5;
+  display:inline-block;
+  background-color:yellow;
+  border-radius:20px;
+  padding:25px;
+
+}
+header:hover{
+
+  background-color:pink;
+  border-radius:20px;
+
+
+}
+header{
+  background-color:black;
+}
+header h1{
+  color:white;
+opacity:1;
+
+}
+.container p{
+  color:white;
+}
+.bottom h1{
+  color:white;
+  text-align: center;
+}
+.info h1{
+  color:black;
+}
+.bass{
+  float:right;
+}
+.joo{
+  background-color: #D8D8D8	;
+}
+.lolo{
+  padding-top:1050px;
+
+}
+.signup{
+  float:right;
+  color:white;
+  background-color: black;
+  font-size:24px;
+}
+
+.signup-modal-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 100;
+  display: none;
+}
+
+.modal {
+  position: absolute;
+  top: 20%;
+  left: 34%;
+  background-color: #e6ecf0;
+  padding: 20px 0 40px;
+  border-radius: 10px;
+  width: 450px;
+  height: auto;
+  text-align: center;
+}
+#signup-form {
+  width: 100%;
+}
+
+#signup-form h2 {
+  color: #5f5d60;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+
+#signup-form input {
+  width: 320px;
+  margin-bottom: 20px;
+  font-size: 12px;
+  padding: 12px 12px;
+  border: 1px solid #d0d5d8;
+  border-radius: 5px;
+}
